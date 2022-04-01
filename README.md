@@ -1,1 +1,1 @@
-# sample java application
+# sample java to test application
